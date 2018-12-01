@@ -103,10 +103,10 @@ Language
 ### Personality Traits
 The greatest thief in the multiverse, in his own mind.
 
-An gifted mage with the hubris to match.
+A gifted mage with the hubris to match.
 
 ### Ideals
-Loyalty, learning for mistakes, and the pursuit of knowledge.
+Loyalty, learning from mistakes, and the pursuit of knowledge.
 
 ### Bonds
 Pursuit of the necromancer who destroyed my hometown.
@@ -117,7 +117,7 @@ Brash and impetuous. Not as competent as he imagines.
 ### Backstory
 Dack is the "rogue" of Magic. He’s sly, charming and a slick thief... most of the time. He’s almost as well defined by how often he’s caught attempting to steal something as actually stealing it. Although he doesn’t like to admit it to himself, he’s got a strong sense of loyalty and his personal tragedy means he often throws himself in situations to protect people when he could just as easily get away.
 
-His true power lies in Psychometry. This power allows him have visions of an object after touching it, through which he to discerns how magical objects work and learns important pieces of the history of those who’ve touched something. He uses this ability to aid in tracking down objects and people of interest, but more importantly to learn the spells behind powerful magical artifacts. This ability means that when he steals an object, he rarely needs to keep it, he’s only stealing it to learn it’s secrets.
+His true power lies in Psychometry. This power allows him to have visions of an object after touching it, through which he discerns how magical objects work and learns important pieces of the history of those who’ve touched something. He uses this ability to aid in tracking down objects and people of interest, but more importantly to learn the spells behind powerful magical artifacts. This ability means that when he steals an object, he rarely needs to keep it, he’s only stealing it to learn it’s secrets.
 
 Dack keeps a generally scruffy appearance along with a small goatee and long hair. He’s got an olive complexion, most likely from the pseudo-Italian nature of his home plane. Dack’s defining feature is that he has a red stain on his right hand that extends from his fingertips to his elbow. This stain is the result of a punishment he endured while thieving on another plane early in his career. He keeps this stain as a reminder to himself of what his selfishness and sloppiness cost him.
 
