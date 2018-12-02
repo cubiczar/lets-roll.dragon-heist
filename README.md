@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Welcome to Dragon Heist
 
-You can use the [editor on GitHub](https://github.com/JoshuaBelden/lets-roll.dragon-heist/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome Adventurers, to the Waterdeep: Dragon Heist Play-By-Slack repository.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are currently in the Character Building phase. We will have until the end of November to complete character generation. All characters need to be submitted to the channel as a file, unless we find a better way to manager character sheets. Perhaps a GitHub Gist or a Google doc?
 
-### Markdown
+On December 1st, we will begin play with Chapter 1: A Friend In Need.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Notice the Threads - I'd like to keep the channel devoted to Character voices, and threads for the player's voice.
 
-```markdown
-Syntax highlighted code block
+## Characters
 
-# Header 1
-## Header 2
-### Header 3
+The campaign will be a city-based adventure full of intrigue. Waterdeep frowns upon openly worn weapons and armor, although at times, both will be needed. Build your characters appropriately. 
 
-- Bulleted
-- List
+Rules from the following source books will be allowed:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JoshuaBelden/lets-roll.dragon-heist/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ - The Player's Handbook
+ - The Sword Coast Adventurer's Guide
+ 
+ Nobles, Guilds, and Factions will all be important. You can either start out from the beginning participating as/in one, or you can develop one along the way. If anyone is interested in Nobleship, Faction Membership, or Guild Membership, I can follow-up in a subsequent post with the available options. 
