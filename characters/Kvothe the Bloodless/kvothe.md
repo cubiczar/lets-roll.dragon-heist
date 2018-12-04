@@ -111,7 +111,7 @@ Language
 #### Cantrip
 
 | Name      | Type | Range | Summary     |
-|:----------|:---|:----------------|
+|:----------|:---|:---|:----------------|
 | Dancing Lights      | Concentration | 120 ft.| 4 lights - 10ft dim light, bonus action move 60 ft. |
 | Fire Bolt      | Ranged Atk. | 120 ft.| 1d10 fire dmg. add extra 1d10 at 5, 11, 17 |
 | Prestidigitation      | Utility | 10 ft.| Light/put out fire, clean/soil object, warm/chill item, mark item, sensory effect |
@@ -119,7 +119,7 @@ Language
 #### Level 1 
  
 | Name      | Type | Range | Summary     |
-|:----------|:---|:----------------|
+|:----------|:---|:---|:----------------|
 | Mage Armor      | Dur. - 8 hours| Touch| AC = 13 + Dex. Mod. |
 | Shield      | Reaction - 1 round| Self | Adds 5 AC, no dmg from magic missile |
 | Witch Bolt      | Conc. Ranged Atk. Dur. - 1 min | 30 ft. | 1d12 ligthning dmg on subsequent turns you can use action for 1d12 more |
