@@ -2,7 +2,8 @@
 
 ![Image](https://orig00.deviantart.net/bb5b/f/2015/007/7/9/kvothe_by_eddy_swan-d8d1mcd.jpg)
 
-- Wizard (1)
+- Wizard (2)
+- Bladesinger
 - Far Traveler
 - Human
 - Chaotic Good
@@ -36,7 +37,7 @@
 |  | Medicine        | Wis  | 1  |
 |  | Nature          | Int  | 3  |
 | &#9989; | Perception      | Wis  | 3  |
-|  | Performance     | Cha  | 2  |
+| &#9989; | Performance     | Cha  | 2  |
 |  | Persuasion      | Cha  | 2  |
 |  | Religion        | Int  | 3  |
 |  | Sleight of Hand | Dex  | 3  |
@@ -53,9 +54,18 @@
 |:---|:-----------|
 | 13 | 5          |
 
-| Name      | Atk| Damage/Type     |
+| Name      | Atk | Damage/Type     |
 |:----------|:---|:----------------|
-| Dagger      | +5 | 1d4 +3 Piercing |
+| Rapier      | +5 | 1d8 +3 Piercing |
+
+| Ability | Type | Range | Effect |
+|:--------|:-----|:------|:-------|
+| Bladesong | Dur. 1 Min | Self | AC Bonus: int mod, walking +10ft, adv. on dex checks, bonus concentration check = int modifier |
+
+## Purse
+| PP | GP | EP | SP | CP |
+|:---|:---|:---|:---|:--:|
+| 0 | 15 | 0 | 0 | 0 |
 
 ## Equipment
 | Name            | Qty|
@@ -77,10 +87,10 @@ Tools:
  - Lute
 
 Weapons:
- - Dagger, Dart, Sling, Quarterstaff, Light Crossbow
+ - Dagger, Rapier, Dart, Sling, Quarterstaff, Light Crossbow
 
 Armor
- - None
+ - Light
  
 Language
  - Common, Sylvan, Celestial
@@ -97,14 +107,14 @@ Language
 | Fire Bolt      | Ranged Atk. | 120 ft.| 1d10 fire dmg. add extra 1d10 at 5, 11, 17 |
 | Prestidigitation      | Utility | 10 ft.| Light/put out fire, clean/soil object, warm/chill item, mark item, sensory effect |
 
-#### Level 1 | Slots 2
+#### Level 1 | Slots 3
 | Name      | Type| Range | Effect     |
 |:----------|:---|:---|:----------------|
 | Mage Armor      | Dur. - 8 hours| Touch| AC = 13 + Dex. Mod. |
 | Shield      | Reaction - 1 round| Self | Adds 5 AC, no dmg from magic missile |
 | Witch Bolt      | Conc. Ranged Atk. Dur. - 1 min | 30 ft. | 1d12 ligthning dmg on subsequent turns you can use action for 1d12 more |
 | Comp. Languages      | Dur. - 1 hr. (ritual) | Self | You understand spoken and written languages |
-
+| Magic Missile      | Auto Hit | 120 ft. | 3 darts - 1d4 +1 force dmg each, can target multiple creatures |
 
 ### Known
 
@@ -126,6 +136,8 @@ Language
 | Feather Fall      | Dur. - 1 min. | 60 ft. | Up to 5 creatures no dmg from falling |
 | Comp. Languages      | Dur. - 1 hr. (ritual) | Self | You understand spoken and written languages |
 | Magic Missile      | Auto Hit | 120 ft. | 3 darts - 1d4 +1 force dmg each, can target multiple creatures |
+| Disguise Self | Action | Self | Change your appearance |
+| Detect Magic      | Dur. - 10 min. | Self | Sense magic within 30ft |
  
 ## Flavor
 
